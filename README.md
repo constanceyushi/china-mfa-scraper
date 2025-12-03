@@ -54,6 +54,6 @@ GPL-3.0 License
 ## Citation
 If you use this data in research, please cite:
 ```
-[Constance Chang]. (2025). China MFA Scraper. 
+[Constance Yushi Chang]. (2025). China MFA Scraper. 
 GitHub: https://github.com/constanceyushi/china-mfa-scraper
 ```
