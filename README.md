@@ -55,5 +55,5 @@ MIT License
 If you use this data in research, please cite:
 ```
 [Constance Chang]. (2025). China MFA Scraper. 
-GitHub: https://github.com/constanceyushi
+GitHub: https://github.com/constanceyushi/china-mfa-scraper
 ```
