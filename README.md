@@ -49,7 +49,7 @@ Open `analysis.ipynb` in Jupyter
 - Respects website structure as of 2025
 
 ## License
-MIT License
+GPL-3.0 License
 
 ## Citation
 If you use this data in research, please cite:
