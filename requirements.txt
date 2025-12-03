@@ -1,0 +1,34 @@
+# In your terminal/command prompt, navigate to your project folder
+cd path/to/my-mfa-scraper
+
+# Generate requirements file
+pip freeze > requirements.txt
+```
+
+Or manually create it:
+```
+selenium
+pandas
+jupyter
+```
+
+### Create .gitignore
+This tells Git to ignore certain files (like output data, cache files):
+```
+# Output files
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ChromeDriver
+chromedriver*
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
