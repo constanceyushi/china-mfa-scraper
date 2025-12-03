@@ -44,7 +44,7 @@ Open `analysis.ipynb` in Jupyter
 | link | Source URL |
 
 ## Notes
-- Script takes under 1 hour to complete (estimate based on your experience)
+- Script takes under 1 hour to complete
 - Some countries may not have document sections
 - Respects website structure as of 2025
 
